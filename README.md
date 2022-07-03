@@ -7,5 +7,3 @@
 - Python, Java, C, Bash, SQL, HTML & CSS
 ## Learning...
 - AI, ML
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eldho-Sunny&theme=dark&background=000000)](https://git.io/streak-stats)
